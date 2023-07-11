@@ -34,7 +34,7 @@ urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 
 #Change Site Title, Index Title and Site Title
-admin.site.site_header = "Central Bank Administration"
-admin.site.site_title = "Central Bank Administration"
-admin.site.index_title = "Welcome to Central Bank Administration Admin Panel"
+admin.site.site_header = "Bank 4 You Administration"
+admin.site.site_title = "B4U Administration"
+admin.site.index_title = "Welcome to B4U Admin Panel"
 
